@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+L_08_ex_package_fc/_init_.py
+L_08_ex_package_fc/fc_Messa.py
+fc_Messa.egg-info/PKG-INFO
+fc_Messa.egg-info/SOURCES.txt
+fc_Messa.egg-info/dependency_links.txt
+fc_Messa.egg-info/top_level.txt
