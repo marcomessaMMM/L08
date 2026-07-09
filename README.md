@@ -17,6 +17,6 @@ pip install -e .
 
 Marco Maria Messa
 
-# For downloading it from TestPy use 
+# For downloading it from TestPy visit
 
-"pip install -i https://test.pypi.org/simple/ fc-Messa"
+"[pip install -i https://test.pypi.org/simple/ fc-Messa](https://test.pypi.org/project/fc-Messa/)"
