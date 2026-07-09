@@ -16,3 +16,7 @@ pip install -e .
 ## Author
 
 Marco Maria Messa
+
+# For downloading it from TestPy use 
+
+"pip install -i https://test.pypi.org/simple/ fc-Messa"
